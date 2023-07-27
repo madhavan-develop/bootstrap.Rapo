@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+}
+.coding{
+    height:200px;
+    width:200px;
+}
+.joy{
+height: 100vh;
+}
